@@ -1,12 +1,22 @@
-- 👋 Hi, I’m samuel musa adinata
-- 👀 I’m interested in th* **t** ****
-- 🌱 I’m currently learning *************
-- 💞️ I’m looking to collaborate on **** ********
-- 📫 How to reach me ** ******
-- 😄 Pronouns: *******/****
-- ⚡ Fun fact: *
-
-<!---
-samuelmusaadinata/samuelmusaadinata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖      ║
+║                                                                ║
+║   🚀 Student Developer | Machine Learning | AI | Mechatronics ║
+║                                                                ║
+║   ┌─────────────────────────────────────────────────────────┐ ║
+║   │ 💻 Tech Stack:                                          │ ║
+║   │ • Python 🐍  • C/C++ ⚙️  • Machine Learning 🧠         │ ║
+║   │ • AI & Automation 🤖  • Mechatronics ⚙️                 │ ║
+║   └─────────────────────────────────────────────────────────┘ ║
+║                                                                ║
+║   📍 Indonesia | 🎓 Student | 💡 Innovator                   ║
+║                                                                ║
+║   🔗 Connect with me:                                         ║
+║   📱 Instagram: @samuel.musa.adinata.5                       ║
+║   🌐 Portfolio: samuelmusaadinata.github.io/samuel-link-in-bio║
+║   💼 LinkedIn: samuel-musa-adinata                           ║
+║                                                                ║
+║   ⭐ Always learning, always building!                        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
