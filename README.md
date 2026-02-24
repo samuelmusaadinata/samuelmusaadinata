@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════════╗
 
-║                                                                ║
+║                                                                 ║
 
-║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖      ║
+║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖       ║
 
-║                                                                ║
+║                                                                 ║
 
-║   🚀 Student Developer | Machine Learning | AI | Mechatronics ║
+║   🚀 Student Developer | Machine Learning | AI | Mechatronics  ║
 
 ║                                                                ║
 
