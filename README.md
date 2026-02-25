@@ -2,7 +2,7 @@
 
 ║                                                                 ║
 
-║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖       ║
+║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖        ║
 
 ║                                                                 ║
 
