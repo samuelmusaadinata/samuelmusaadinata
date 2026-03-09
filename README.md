@@ -13,6 +13,7 @@
 ║   │ • AI & Automation 🤖  • Mechatronics ⚙️                 │ ║
 
 ║   └─────────────────────────────────────────────────────────┘ ║
+
 ║   📍 Indonesia | 🎓 Student | 💡 Innovator                   ║
 
 ║   🔗 Connect with me:                                         ║
