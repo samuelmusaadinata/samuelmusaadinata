@@ -1,6 +1,9 @@
 ╔════════════════════════════════════════════════════════════════╗
+
 ║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖        ║
+
 ║   🚀 Student Developer | Machine Learning | AI | Mechatronics  ║
+
 ║   ┌─────────────────────────────────────────────────────────┐ ║
 
 ║   │ 💻 Tech Stack:                                          │ ║
