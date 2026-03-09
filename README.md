@@ -14,11 +14,17 @@
 
 ║   └─────────────────────────────────────────────────────────┘ ║
 ║   📍 Indonesia | 🎓 Student | 💡 Innovator                   ║
+
 ║   🔗 Connect with me:                                         ║
+
 ║   📱 Instagram: @samuel.musa.adinata.5                       ║
+
 ║   🌐 Portfolio: samuelmusaadinata.github.io/samuel-link-in-bio║
+
 ║   💼 LinkedIn: samuel-musa-adinata                           ║║
+
 ║   ⭐ Always learning, always building!                        ║
+
 ╚════════════════════════════════════════════════════════════════╝
 
 
