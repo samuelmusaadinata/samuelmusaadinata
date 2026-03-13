@@ -1,6 +1,6 @@
 ╔════════════════════════════════════════════════════════════════╗
 
-║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖--------------------------------------------║
+║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖---------------------------------------------║
 
 ║   🚀 Student Developer | Machine Learning | AI | Mechatronics  ║
 
