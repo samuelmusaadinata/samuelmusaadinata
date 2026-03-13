@@ -2,15 +2,15 @@
 
 ║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖---------------------------------------------║
 
-║   🚀 Student Developer | Machine Learning | AI | Mechatronics  ║
+║   🚀 Student Developer | Machine Learning | AI | Mechatronics----------------------------------------║
 
-║   ┌─────────────────────────────────────────────────────────┐ ║
+║   ┌─────────────────────────────────────────────────────────┐-----------------------------------------║
 
-║   │ 💻 Tech Stack:                                          │ ║
+║   │ 💻 Tech Stack:                                          │----------------------------------------║
 
-║   │ • Python 🐍  • C/C++ ⚙️  • Machine Learning 🧠         │ ║
+║   │ • Python 🐍  • C/C++ ⚙️  • Machine Learning 🧠         │----------------------------------------║
 
-║   │ • AI & Automation 🤖  • Mechatronics ⚙️                 │ ║
+║   │ • AI & Automation 🤖  • Mechatronics ⚙️                 |----------------------------------------║
 
 ║   └─────────────────────────────────────────────────────────┘ ║
 
