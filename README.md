@@ -1,32 +1,19 @@
-╔════════════════════════════════════════════════════════════════╗
+ # Samuel Musa Adinata
 
-║   👨‍💻 SAMUEL MUSA ADINATA | Developer & ML Enthusiast 🤖-------║
+*Mechatronics Student | Embedded Systems, Robotics & IoT*
 
-║   🚀 Student Developer | Machine Learning | AI | Mechatronics----------------------------------------║
+I build practical engineering projects that combine electronics, microcontrollers, automation, and software.
 
-║   ┌─────────────────────────────────────────────────────────┐-----------------------------------------║
+## Areas of Interest
+- Embedded systems and ESP32 development
+- Robotics and servo control
+- Sensors and IoT monitoring
+- 3D robot visualization and AI integration
 
-║   │ 💻 Tech Stack:                                          │----------------------------------------║
+## Featured Projects
+- ESP32 Robotic Arm — servo control and planned 3D visualization
+- Environmental Monitoring System — sensor integration and data logging
+- Physics Laboratory Inventory — web-based inventory search and filtering
 
-║   │ • Python 🐍  • C/C++ ⚙️  • Machine Learning 🧠         │----------------------------------------║
-
-║   │ • AI & Automation 🤖  • Mechatronics ⚙️                 |----------------------------------------║
-
-║   └─────────────────────────────────────────────────────────┘ ║
-
-║   📍 Indonesia | 🎓 Student | 💡 Innovator                   ║
-
-║   🔗 Connect with me:                                         ║
-
-║   📱 Instagram: @samuel.musa.adinata.5                       ║
-
-║   🌐 Portfolio: samuelmusaadinata.github.io/samuel-link-in-bio║
-
-║   💼 LinkedIn: samuel-musa-adinata                           ║║
-
-║   ⭐ Always learning, always building!                        ║
-
-╚════════════════════════════════════════════════════════════════╝
-
-
-
+## Currently Learning
+C/C++, embedded control, robotics simulation, and system integration.
