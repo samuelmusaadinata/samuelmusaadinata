@@ -2,10 +2,9 @@
   <img
     src="Image 24 Jul 2026, 18.35.47.png"
     alt="ESP32 Robotic Arm"
-    width="400"
+    width="1000"
   />
 </p>
- 
  # Samuel Musa Adinata
 
 *Mechatronics Student | Embedded Systems, Robotics & IoT*
