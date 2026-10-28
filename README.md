@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Image 24 Jul 2026, 18.35.47.png" alt="profil"  height="50%" width="100%" />
+<img src="Image24Jul2026,18.05.04.png" alt="profil"  height="50%" width="100%" />
  </div>
 
 <div align="left">
