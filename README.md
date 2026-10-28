@@ -1,7 +1,10 @@
 <div align="center">
-<img src="Image 24 Jul 2026, 18.35.47.png" alt="profil" width="100%" />
+<img src="Image 24 Jul 2026, 18.35.47.png" alt="profil"  height="50%" width="100%" />
+ </div>
+
 <div align="left">
- # ⚡Samuel Musa Adinata
+ 
+# ⚡Samuel Musa Adinata
 
 *Mechatronics Student | Embedded Systems, Robotics & IoT*
 
