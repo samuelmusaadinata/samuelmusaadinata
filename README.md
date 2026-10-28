@@ -1,8 +1,9 @@
-![samuelmusaadinata](Image 24 Jul 2026, 18.35.47.png)
-
-
-
-
+<p align="center">
+  <img
+    src="Image 24 Jul 2026, 18.35.47.png"
+    width="1000"
+  />
+</p>
 
  # Samuel Musa Adinata
 
