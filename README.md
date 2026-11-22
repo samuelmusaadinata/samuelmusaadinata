@@ -1,6 +1,9 @@
 <div align="center">
 <img src="Image24Jul2026,18.05.04.png" alt="profil"  height="50%" width="100%" />
  </div>
+<div class="banner">
+  <img src="assets/banner.svg" alt="Animated banner">
+</div>
 
 <div align="left">
  
